@@ -120,6 +120,7 @@
     "entity.entities_stick_sublevels.player.ServerboundMovePlayerPacketMixin",
     "entity.entities_stick_sublevels.player.ServerGamePacketListenerImplMixin",
     "entity.entities_stick_sublevels.player.ServerPlayerMixin",
+    "entity.entity_aabb_lookup.LevelMixin",
     "entity.entity_aabb_lookup.LevelsMixin",
     "entity.entity_ai.EatBlockGoalMixin",
     "entity.entity_collision.CollisionContextMixin",

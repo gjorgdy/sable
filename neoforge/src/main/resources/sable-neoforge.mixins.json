@@ -161,6 +161,7 @@
     "compatibility.create.vertical_gearbox.VerticalGearboxItemMixin",
     "compatibility.create.zapper.ZapperItemMixin",
     "compatibility.irons_spellbooks.PortalFrameBlockMixin",
+    "compatibility.irons_spellbooks.TouchDigSpellMixin",
     "compatibility.pmweather.AnemometerBlockEntityMixin",
     "compatibility.pmweather.AnemometerBlockMixin",
     "compatibility.pmweather.PMWeatherMixin",
